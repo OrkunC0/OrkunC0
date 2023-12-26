@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Orkun
-- 👀 I’m interested in programming, art and music
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in ...............
+- 🌱 I’m currently learning ............
 
 <!---
 OrkunC0/OrkunC0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
